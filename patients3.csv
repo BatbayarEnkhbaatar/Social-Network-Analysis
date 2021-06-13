@@ -1,0 +1,340 @@
+patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection_case,infection_order,infected_by,frequency,contact_number,symptom_onset_date,confirmed_date,released_date,deceased_date,state
+2000000219,8180,male,1956,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000223,8181,male,1963,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000224,8211,male,1985,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000225,8210,male,1965,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000228,8199,male,1994,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000229,8182,male,2007,10s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000230,8165,male,1972,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000235,8363,male,1994,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000242,8295,male,1975,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000253,8245,male,1999,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000256,8269,male,1960,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000257,8303,male,1998,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000258,8301,male,2006,10s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000270,8391,male,1986,30s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000205,51,17,04-03-20,17-03-20,,,isolated
+2000000283,8471,male,1996,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,2,,18-03-20,,,isolated
+2000000287,8458,male,1985,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,18-03-20,,,isolated
+2000000361,9018,male,1965,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,3,,23-03-20,,,isolated
+2000000484,9878,male,2001,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,15-03-20,31-03-20,,,isolated
+2000000494,9826,male,2001,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,31-03-20,,,isolated
+2000000183,7982,male,1954,60s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,12-03-20,,,isolated
+2000000194,8000,male,1953,60s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,13-03-20,,,isolated
+2000000201,8119,male,1956,60s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,14-03-20,,,isolated
+2000000232,8276,male,2010,10s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,16-03-20,,,isolated
+2000000265,8327,male,1964,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,17-03-20,,,isolated
+2000000453,9656,male,1986,30s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,28-03-20,,,isolated
+2000000455,9649,male,2005,10s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,28-03-20,,,isolated
+2000000544,10059,male,2002,10s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,02-04-20,,,isolated
+2000000379,9078,male,1926,90s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000416,9332,male,1933,80s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000309,21,,21-03-20,26-03-20,,,isolated
+2000000432,9759,male,1927,90s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,27-03-20,,,isolated
+2000000517,9924,male,1962,50s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,01-04-20,,,isolated
+4100000007,,male,1975,40s,Korea,Chungcheongnam-do,Asan-si,,contact with patient,,4100000006,21,51,22-02-20,26-02-20,26-03-20,,released
+2000000208,8093,male,1980,40s,Korea,Gyeonggi-do,Gimpo-si,,contact with patient,,1000000125,18,4,,14-03-20,,,isolated
+1200000049,49,male,1962,50s,Korea,Daegu,,,Shincheonji Church,,1200000031,17,,,19-02-20,,,isolated
+1200000050,50,male,1944,70s,Korea,Daegu,,,Shincheonji Church,,1200000031,17,,,19-02-20,02-03-20,,released
+1500000015,4996,male,,20s,Korea,Daejeon,Yuseong-gu,,contact with patient,,1200000031,17,12,,03-03-20,11-03-20,,released
+1600000005,,male,1999,20s,Korea,Ulsan,Nam-gu,,Shincheonji Church,,1200000031,17,,18-02-20,26-02-20,10-03-20,,released
+6002000014,,male,2001,10s,Korea,Gyeongsangbuk-do,Gyeongju-si,,contact with patient,,1200000031,17,,,02-03-20,,,isolated
+6002000015,,male,1958,60s,Korea,Gyeongsangbuk-do,Gyeongju-si,,contact with patient,,1200000031,17,,,03-03-20,,,isolated
+6100000008,,male,1950,70s,Korea,Gyeongsangnam-do,Yangsan-si,,contact with patient,,1200000031,17,,,22-02-20,,,released
+2000000523,10018,male,1973,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,02-04-20,,,isolated
+2000000527,10014,male,1972,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,02-04-20,,,isolated
+2000000550,10088,male,1940,80s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,03-04-20,,,isolated
+2000000560,10113,male,1979,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,03-04-20,,,isolated
+2000000566,10184,male,1982,30s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,04-04-20,,,isolated
+2000000581,10279,male,1973,40s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,05-04-20,,,isolated
+2000000596,10373,male,1966,50s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,07-04-20,,,isolated
+4100000135,,male,1973,40s,United States,Chungcheongnam-do,Asan-si,,overseas inflow,,2000000508,17,2,,03-04-20,,,isolated
+2000000572,10302,male,1947,70s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,04-04-20,,,isolated
+2000000578,10278,male,1961,60s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000476,15,,,05-04-20,,,isolated
+2000000583,10324,male,1948,70s,Korea,Gyeonggi-do,Pocheon-si,,contact with patient,,2000000476,15,,,05-04-20,,,isolated
+2000000620,10459,male,1964,50s,Korea,Gyeonggi-do,Yangju-si,,contact with patient,,2000000476,15,,,10-04-20,,,isolated
+2000000637,10571,male,1946,70s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,2000000476,15,,,13-04-20,,,isolated
+2000000186,8113,male,1988,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,,10-03-20,13-03-20,,,isolated
+2000000289,8498,male,1965,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,,,18-03-20,,,isolated
+6016000012,,male,2000,20s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,10-04-20,,,isolated
+6016000013,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,10-04-20,,,isolated
+6016000014,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,10-04-20,,,isolated
+6016000023,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,13-04-20,,,isolated
+6016000025,,male,1977,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,14-04-20,,,isolated
+6016000026,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,13-04-20,,,isolated
+6016000034,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,15-04-20,,,isolated
+6016000036,,male,2003,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,16-04-20,,,isolated
+2000000141,7329,male,1955,60s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,8,10,,08-03-20,14-04-20,,released
+2000000264,8412,male,1979,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000114,8,,,16-03-20,,,isolated
+2000000162,7392,male,1955,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,7,,,09-03-20,,,isolated
+2000000178,7821,male,1952,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,7,,,11-03-20,,,isolated
+2000000143,7340,male,1994,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,7,,,08-03-20,,,isolated
+2000000331,8823,male,2019,0s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,7,,,21-03-20,,,isolated
+4100000110,,male,1968,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,7,1,,10-03-20,17-04-20,,released
+4100000112,,male,1967,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,7,2,,10-03-20,11-04-20,,released
+4100000113,,male,1983,30s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,7,3,,10-03-20,29-03-20,,released
+4100000114,,male,1967,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,7,2,,10-03-20,29-03-20,,released
+6015000017,1228,male,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,contact with patient,,6016000007,7,,,26-02-20,25-03-20,,released
+6016000008,,male,1972,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000007,7,,,09-04-20,,,isolated
+6016000009,,male,2001,10s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000007,7,,,09-04-20,,,isolated
+2000000197,8032,male,1957,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,1000000138,6,15,08-03-20,13-03-20,,,isolated
+2000000211,8213,male,1959,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,1000000138,6,1,,15-03-20,,,isolated
+1300000004,164,male,,30s,Korea,Gwangju,,,contact with patient,,1300000003,6,30,,21-02-20,18-03-20,,released
+1300000006,239,male,,30s,Korea,Gwangju,,,contact with patient,,1300000003,6,14,,21-02-20,16-03-20,,released
+1300000007,489,male,,30s,Korea,Gwangju,,,contact with patient,,1300000003,6,39,,22-02-20,17-03-20,,released
+1300000014,7268,male,,20s,Korea,Gwangju,,,contact with patient,,1300000003,6,74,,07-03-20,23-03-20,,released
+4100000060,,male,2006,10s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000059,6,,,29-02-20,18-03-20,,released
+4100000061,,male,2007,10s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000059,6,,25-02-20,29-02-20,12-03-20,,released
+6010000008,,male,,50s,Korea,Gyeongsangbuk-do,Seongju-gun,,contact with patient,,6010000001,5,,,28-02-20,,,isolated
+1000000007,11,male,1995,20s,Korea,Seoul,Jongno-gu,,contact with patient,3,1000000003,4,0,,31-01-20,10-02-20,,released
+1000000017,83,male,1944,70s,Korea,Seoul,Jongno-gu,,contact with patient,3,1000000003,4,,,20-02-20,01-03-20,,released
+1000000128,7281,male,1951,60s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,4,,05-03-20,08-03-20,,,released
+1000000385,9468,male,1976,40s,Korea,Seoul,Yeongdeungpo-gu,,contact with patient,,1000000353,4,,25-03-20,27-03-20,,,released
+1000000391,9547,male,1965,50s,Korea,Seoul,Geumcheon-gu,,contact with patient,,1000000353,4,,20-03-20,28-03-20,,,isolated
+1000000442,9706,male,1963,50s,Korea,Seoul,Seocho-gu,,contact with patient,,1000000443,4,,,30-03-20,,,isolated
+1000000447,9725,male,1964,50s,Korea,Seoul,Jung-gu,,contact with patient,,1000000443,4,,,30-03-20,,,isolated
+1000000473,9870,male,1958,60s,Korea,Seoul,etc,,contact with patient,,1000000443,4,,,31-03-20,,,isolated
+2000000107,5471,male,1976,40s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000104,4,,,04-03-20,,,isolated
+2000000284,8541,male,2014,0s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000104,4,,,18-03-20,,,isolated
+2000000400,9240,male,1964,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000297,4,3,22-03-20,25-03-20,09-04-20,,released
+2000000402,9229,male,1999,20s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000387,4,,,25-03-20,,,isolated
+2000000404,9326,male,1993,20s,Korea,Gyeonggi-do,Ansan-si,,contact with patient,,2000000387,4,,,26-03-20,,,isolated
+2000000462,9611,male,1994,20s,Korea,Gyeonggi-do,Ansan-si,,contact with patient,,2000000387,4,,,29-03-20,,,isolated
+4100000049,,male,1983,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000022,4,,,29-02-20,12-04-20,,released
+4100000072,,male,2012,0s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000022,4,0,,01-03-20,18-03-20,,released
+4100000121,,male,1972,40s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,4,2,,24-03-20,07-04-20,,released
+4100000125,,male,1981,30s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,4,3,27-03-20,27-03-20,18-04-20,,released
+4100000131,,male,1964,50s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,4,0,,31-03-20,17-04-20,,released
+6100000012,,male,1971,40s,Korea,Gyeongsangnam-do,Changwon-si,,contact with patient,,6100000005,4,,,23-02-20,04-04-20,,released
+2000000217,8205,female,1954,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000218,8184,female,1992,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000220,8197,female,1982,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000221,8229,female,2009,10s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,2,,15-03-20,,,isolated
+2000000222,8171,female,1971,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000226,8222,female,1968,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000227,8232,female,1963,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,15-03-20,,,isolated
+2000000233,8305,female,1967,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000234,8246,female,1966,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000236,8283,female,1949,70s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000237,8284,female,1958,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000238,8266,female,1968,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000239,8258,female,1996,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000240,8252,female,1969,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000241,8249,female,1959,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000246,8240,female,1963,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000247,8256,female,1960,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000248,8281,female,1961,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000249,8315,female,1968,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000250,8308,female,1971,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000251,8247,female,1973,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000252,8280,female,1999,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000254,8267,female,1998,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000255,8307,female,1966,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000259,8277,female,1962,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000260,8262,female,1979,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000261,8282,female,1976,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,16-03-20,,,isolated
+2000000286,8524,female,1953,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,1,05-03-20,18-03-20,,,isolated
+2000000358,8988,female,1970,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,9,,23-03-20,,,isolated
+2000000470,9749,female,1971,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,30-03-20,,,isolated
+2000000471,9754,female,1989,30s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,2000000205,51,,,30-03-20,,,isolated
+2000000514,9910,female,1998,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000205,51,,,01-04-20,,,isolated
+4100000002,,female,1973,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,35,24-02-20,25-02-20,15-03-20,,released
+4100000003,,female,1970,50s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,4,24-02-20,25-02-20,20-03-20,,released
+4100000005,,female,1976,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,9,23-02-20,26-02-20,27-03-20,,released
+4100000009,,female,1982,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,3,23-02-20,26-02-20,23-03-20,,released
+4100000010,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,2,25-02-20,27-02-20,17-04-20,,released
+4100000011,,female,1989,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,31,22-02-20,27-02-20,18-04-20,,released
+4100000012,,female,1967,50s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,5,24-02-20,27-02-20,26-03-20,,released
+4100000013,,female,1977,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,10,22-02-20,27-02-20,17-03-20,,released
+4100000015,,female,1977,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,,,27-02-20,23-03-20,,released
+4100000016,,female,1974,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,,,27-02-20,18-03-20,,released
+4100000017,,female,1980,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,15,26-02-20,27-02-20,14-03-20,,released
+4100000019,,female,1979,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,2,24-02-20,27-02-20,23-03-20,,released
+4100000022,,female,1982,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,5,22-02-20,28-02-20,06-03-20,,released
+4100000023,,female,1969,50s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,3,22-02-20,28-02-20,23-03-20,,released
+4100000024,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,24,27-02-20,28-02-20,06-04-20,,released
+4100000026,,female,1959,60s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,11,22-02-20,28-02-20,18-03-20,,released
+4100000027,,female,1981,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,2,22-02-20,28-02-20,11-04-20,,released
+4100000028,,female,1979,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,53,27-02-20,28-02-20,23-03-20,,released
+4100000029,,female,1975,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,2,25-02-20,28-02-20,19-03-20,,released
+4100000031,,female,1977,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,0,,28-02-20,16-03-20,,released
+4100000032,,female,1982,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,6,25-02-20,28-02-20,11-03-20,,released
+4100000037,,female,1981,30s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,7,27-02-20,28-02-20,12-03-20,,released
+4100000039,,female,1975,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,106,23-02-20,28-02-20,24-03-20,,released
+4100000053,,female,1959,60s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,0,,29-02-20,24-03-20,,released
+4100000054,,female,1969,50s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,1,,29-02-20,23-03-20,,released
+4100000055,,female,1997,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000008,27,0,27-02-20,29-02-20,17-03-20,,released
+4100000077,,female,1973,40s,Korea,Chungcheongnam-do,Cheonan-si,,gym facility in Cheonan,,4100000008,27,3,,01-03-20,20-03-20,,released
+2000000180,7931,female,1971,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,12-03-20,,,isolated
+2000000181,7881,female,1969,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,12-03-20,,,isolated
+2000000182,7900,female,1974,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,12-03-20,,,isolated
+2000000190,8020,female,1969,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,13-03-20,,,isolated
+2000000191,7992,female,1986,30s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,13-03-20,,,isolated
+2000000192,8019,female,1959,60s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,13-03-20,,,isolated
+2000000198,8065,female,1962,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,13-03-20,,,isolated
+2000000202,8159,female,1963,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,14-03-20,,,isolated
+2000000203,8089,female,1959,60s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,14-03-20,,,isolated
+2000000204,8106,female,1967,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,14-03-20,,,isolated
+2000000215,8195,female,1974,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,15-03-20,,,isolated
+2000000282,8565,female,1974,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,18-03-20,,,isolated
+2000000338,8877,female,1970,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,21-03-20,,,isolated
+2000000341,8958,female,1977,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,22-03-20,,,isolated
+2000000406,9288,female,1960,60s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,26-03-20,,,isolated
+2000000408,9258,female,1997,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000167,24,,,26-03-20,,,isolated
+2000000335,8846,female,1940,80s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,21-03-20,,,isolated
+2000000374,9093,female,1970,50s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000375,9128,female,1951,70s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000376,9090,female,1968,50s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000378,9100,female,1926,90s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000380,9086,female,1922,90s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000381,9124,female,1928,90s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000382,9109,female,1933,80s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,24-03-20,,,isolated
+2000000389,9221,female,1937,80s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,25-03-20,,,isolated
+2000000405,9319,female,1925,90s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,26-03-20,,,isolated
+2000000419,9394,female,1929,90s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,27-03-20,,,isolated
+2000000420,9397,female,1935,80s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,27-03-20,,,isolated
+2000000422,9441,female,1971,50s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,27-03-20,,,isolated
+2000000492,9828,female,1946,70s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,31-03-20,,,isolated
+2000000540,10023,female,1971,50s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,02-04-20,,,isolated
+2000000543,10100,female,1932,80s,Korea,Gyeonggi-do,Anseong-si,,contact with patient,,2000000309,21,,,02-04-20,,,isolated
+2000000558,10089,female,1967,50s,Korea,Gyeonggi-do,Gunpo-si,,contact with patient,,2000000309,21,,,03-04-20,,,isolated
+4100000004,,female,1973,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,6,24-02-20,25-02-20,17-03-20,,released
+4100000020,,female,1980,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,1,21-02-20,28-02-20,22-03-20,,released
+4100000025,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,2,,28-02-20,18-03-20,,released
+4100000030,,female,1966,50s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,6,,28-02-20,12-04-20,,released
+4100000033,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,5,23-02-20,28-02-20,15-03-20,,released
+4100000034,,female,1975,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,0,,28-02-20,05-04-20,,released
+4100000035,,female,1973,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,23,23-02-20,28-02-20,03-04-20,,released
+4100000036,,female,1980,40s,Korea,Chungcheongnam-do,Asan-si,,contact with patient,,4100000006,21,8,27-02-20,28-02-20,03-04-20,,released
+4100000041,,female,1979,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,1,,28-02-20,22-03-20,,released
+4100000042,,female,1987,30s,Korea,Chungcheongnam-do,Asan-si,,contact with patient,,4100000006,21,5,27-02-20,28-02-20,,,isolated
+4100000043,,female,1981,30s,Korea,Chungcheongnam-do,Asan-si,,contact with patient,,4100000006,21,10,27-02-20,28-02-20,29-03-20,,released
+4100000045,,female,1972,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,0,,28-02-20,22-03-20,,released
+4100000046,,female,1971,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,0,,28-02-20,26-03-20,,released
+4100000050,,female,1991,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,1,27-02-20,29-02-20,13-03-20,,released
+4100000059,,female,1977,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,0,,29-02-20,18-03-20,,released
+4100000063,,female,1979,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,5,22-02-20,29-02-20,22-03-20,,released
+4100000069,,female,1972,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,,29-02-20,01-03-20,24-03-20,,released
+4100000074,,female,1968,50s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,14,,01-03-20,27-03-20,,released
+4100000082,,female,1966,50s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,14,,03-03-20,24-03-20,,released
+4100000083,,female,1997,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000006,21,9,,04-03-20,29-03-20,,released
+2000000157,7498,female,1969,50s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,18,,,09-03-20,,,isolated
+2000000158,7448,female,1973,40s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,18,,,09-03-20,,,isolated
+2000000159,7418,female,1969,50s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,18,,,09-03-20,,,isolated
+2000000160,7404,female,1968,50s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,18,,,09-03-20,,,isolated
+2000000163,7696,female,1972,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,18,,,09-03-20,,,isolated
+2000000164,7556,female,1971,40s,Korea,Gyeonggi-do,Gimpo-si,,contact with patient,,1000000125,18,2,,09-03-20,,,isolated
+2000000165,7559,female,1966,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,18,,,10-03-20,,,isolated
+2000000166,7665,female,1993,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,18,,,10-03-20,,,isolated
+2000000167,7663,female,1976,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,18,,,10-03-20,,,isolated
+2000000168,7557,female,1968,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,18,,,10-03-20,,,isolated
+2000000169,7716,female,1977,40s,Korea,Gyeonggi-do,Gwangmyeong-si,,contact with patient,,1000000125,18,,,10-03-20,,,isolated
+2000000171,7533,female,1969,50s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,1000000125,18,,,10-03-20,,,isolated
+2000000173,7589,female,1988,30s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,18,,,10-03-20,,,isolated
+2000000176,7855,female,1975,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,18,,,11-03-20,,,isolated
+2000000326,8840,female,1993,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1000000125,18,,,21-03-20,,,isolated
+2000000334,8852,female,1962,50s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,1000000125,18,,,21-03-20,,,isolated
+2000000343,8956,female,1969,50s,Korea,Gyeonggi-do,Anyang-si,,contact with patient,,1000000125,18,,,22-03-20,,,isolated
+1200000033,33,female,1980,40s,Korea,Daegu,Jung-gu,,contact with patient,,1200000031,17,,,18-02-20,,,isolated
+1200000047,47,female,1957,60s,Korea,Daegu,,,Shincheonji Church,,1200000031,17,,,19-02-20,,,isolated
+1200000048,48,female,1948,70s,Korea,Daegu,,,Shincheonji Church,,1200000031,17,,,19-02-20,,,isolated
+1200000051,51,female,1959,60s,Korea,Daegu,,,Shincheonji Church,,1200000031,17,,,19-02-20,26-02-20,,released
+2000000013,140,female,1988,30s,Korea,Gyeonggi-do,Gimpo-si,,contact with patient,,1200000031,17,,20-02-20,21-02-20,,,isolated
+2000000015,246,female,1982,30s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,1200000031,17,,,22-02-20,,,isolated
+2000000028,610,female,1993,20s,Korea,Gyeonggi-do,Yongin-si,,contact with patient,,1200000031,17,,,24-02-20,10-03-20,,released
+2000000050,1250,female,1947,70s,Korea,Gyeonggi-do,Namyangju-si,,contact with patient,,1200000031,17,,,26-02-20,17-03-20,,released
+6001000001,67,female,1991,20s,Korea,Gyeongsangbuk-do,Gyeongsan-si,,Shincheonji Church,,1200000031,17,7,,19-02-20,09-04-20,,released
+6002000016,,female,1998,20s,Korea,Gyeongsangbuk-do,Gyeongju-si,,contact with patient,,1200000031,17,,,03-03-20,,,released
+2000000522,10090,female,1986,30s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,02-04-20,,,isolated
+2000000546,10126,female,1989,30s,Korea,Gyeonggi-do,Osan-si,,contact with patient,,2000000508,17,,,02-04-20,,,isolated
+2000000548,10112,female,1988,30s,Korea,Gyeonggi-do,Osan-si,,contact with patient,,2000000508,17,,,03-04-20,,,isolated
+2000000549,10108,female,1985,30s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,03-04-20,,,isolated
+2000000552,10107,female,1988,30s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,03-04-20,,,isolated
+2000000553,10085,female,1942,70s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,03-04-20,,,isolated
+2000000557,10114,female,1996,20s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,03-04-20,,,isolated
+2000000569,10196,female,1989,30s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,04-04-20,,,isolated
+2000000609,10440,female,1995,20s,Korea,Gyeonggi-do,Pyeongtaek-si,,contact with patient,,2000000508,17,,,09-04-20,,,isolated
+2000000489,9881,female,1996,20s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,31-03-20,,,isolated
+2000000495,9796,female,1941,80s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,31-03-20,,,isolated
+2000000516,9954,female,1948,70s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,01-04-20,,,isolated
+2000000556,10101,female,1942,70s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,03-04-20,,,isolated
+2000000576,10253,female,1940,80s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,05-04-20,,,isolated
+2000000589,10320,female,1939,80s,Korea,Gyeonggi-do,Dongducheon-si,,contact with patient,,2000000476,15,,,06-04-20,,,isolated
+2000000616,10431,female,1960,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,09-04-20,,,isolated
+2000000623,10466,female,1950,70s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,10-04-20,,,isolated
+2000000638,10527,female,1953,60s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,13-04-20,,,isolated
+2000000640,10547,female,1983,30s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000476,15,,,13-04-20,,,isolated
+2000000193,7987,female,1991,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,,10-03-20,13-03-20,,,isolated
+2000000206,8117,female,1972,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,,11-03-20,14-03-20,,,isolated
+2000000207,8157,female,1967,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000125,11,2,,14-03-20,29-03-20,,released
+2000000209,8148,female,1992,20s,Korea,Gyeonggi-do,Uijeongbu-si,,contact with patient,,2000000125,11,,,14-03-20,,,isolated
+2000000243,8316,female,1996,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,,,16-03-20,,,isolated
+2000000263,8411,female,1980,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,,,16-03-20,,,isolated
+2000000290,8427,female,1987,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,3,17-03-20,18-03-20,,,isolated
+2000000304,8587,female,1970,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,2,,19-03-20,,,isolated
+2000000320,8822,female,1968,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000125,11,,,20-03-20,,,isolated
+6016000016,,female,1978,40s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000009,9,,,11-04-20,,,isolated
+2000000147,7235,female,1996,20s,Korea,Gyeonggi-do,Ansan-si,,contact with patient,,2000000114,8,,,08-03-20,,,isolated
+2000000214,8168,female,1967,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000114,8,2,,15-03-20,,,isolated
+2000000262,8292,female,1986,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000114,8,,,16-03-20,,,isolated
+2000000306,8755,female,1967,50s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,8,,,19-03-20,30-03-20,,released
+2000000322,8789,female,1984,30s,Korea,Gyeonggi-do,Gwangju-si,,contact with patient,,2000000114,8,,,20-03-20,09-04-20,,released
+2000000324,8872,female,1992,20s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000114,8,,,21-03-20,,,isolated
+2000000114,6881,female,1942,70s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,7,,,07-03-20,,,isolated
+2000000122,6146,female,1964,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,7,5,,05-03-20,,,isolated
+2000000133,6732,female,1988,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,7,8,,06-03-20,,,isolated
+2000000271,8286,female,1958,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,7,3,,17-03-20,,,isolated
+2000000336,8949,female,1952,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000111,7,,,21-03-20,,,isolated
+2000000142,7230,female,1965,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,7,,,08-03-20,,,isolated
+2000000144,7161,female,1988,30s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,7,,,08-03-20,,,isolated
+2000000145,7210,female,1970,50s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,7,,,08-03-20,,,isolated
+2000000329,8897,female,1974,40s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,7,,,21-03-20,,,isolated
+2000000330,8856,female,1997,20s,Korea,Gyeonggi-do,Bucheon-si,,contact with patient,,2000000139,7,,,21-03-20,,,isolated
+4100000105,,female,1967,50s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,7,2,,10-03-20,02-04-20,,released
+4100000109,,female,1986,30s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,7,34,,10-03-20,20-03-20,,released
+4100000111,,female,1995,20s,Korea,Chungcheongnam-do,Seosan-si,,contact with patient,,4100000104,7,15,,10-03-20,01-04-20,,released
+6015000019,1259,female,,60s,Korea,Gyeongsangbuk-do,Yeongcheon-si,,contact with patient,,6016000007,7,,,26-02-20,25-03-20,,released
+6016000010,,female,1944,70s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000007,7,,,09-04-20,,,isolated
+6016000011,,female,1970,50s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000007,7,,,09-04-20,,,isolated
+6016000015,,female,1956,60s,Korea,Gyeongsangbuk-do,Yecheon-gun,,contact with patient,,6016000007,7,,,11-04-20,,,isolated
+2000000188,7988,female,1961,50s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,1000000138,6,5,11-03-20,13-03-20,,,isolated
+2000000205,8100,female,1946,70s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,1000000138,6,8,,14-03-20,,,isolated
+2000000212,8207,female,1960,60s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,1000000138,6,,10-03-20,15-03-20,,,isolated
+2000000351,8950,female,1991,30s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,1000000138,6,3,,22-03-20,,,isolated
+1300000008,589,female,,30s,Korea,Gwangju,,,contact with patient,,1300000003,6,47,,22-02-20,06-03-20,,released
+1300000015,7285,female,,20s,Korea,Gwangju,,,contact with patient,,1300000003,6,12,,08-03-20,19-03-20,,released
+4100000085,,female,1972,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000059,6,5,,04-03-20,23-03-20,,released
+4100000086,,female,1981,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000059,6,19,,05-03-20,20-03-20,,released
+4100000097,,female,1973,40s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000059,6,0,,07-03-20,26-03-20,,released
+4100000098,,female,2000,20s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000059,6,19,,07-03-20,23-03-20,,released
+4000000016,,female,1944,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012,5,,,06-03-20,,,isolated
+4000000017,,female,1944,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012,5,,,06-03-20,,,isolated
+4000000018,,female,1954,60s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012,5,,,06-03-20,,,isolated
+4000000019,,female,1943,70s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012,5,,,06-03-20,,,isolated
+4000000020,,female,1937,80s,Korea,Chungcheongbuk-do,Goesan-gun,,contact with patient,,4000000012,5,,,06-03-20,,,isolated
+1600000007,,female,1997,20s,Korea,Ulsan,Ulju-gun,,contact with patient,,6010000001,5,,,27-03-20,,,isolated
+6010000007,,female,,70s,Korea,Gyeongsangbuk-do,Seongju-gun,,contact with patient,,6010000001,5,,,28-02-20,,,isolated
+6010000009,,female,,50s,Korea,Gyeongsangbuk-do,Seongju-gun,,contact with patient,,6010000001,5,,,28-02-20,,,isolated
+6010000010,,female,,20s,Korea,Gyeongsangbuk-do,Seongju-gun,,contact with patient,,6010000001,5,,,28-02-20,,,isolated
+1000000006,10,female,1966,50s,Korea,Seoul,Jongno-gu,,contact with patient,3,1000000003,4,43,,31-01-20,19-02-20,,released
+1000000010,21,female,1960,60s,Korea,Seoul,Seongbuk-gu,,contact with patient,3,1000000003,4,6,,05-02-20,29-02-20,,released
+1000000121,7219,female,2020,0s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,4,,04-03-20,08-03-20,,,released
+1000000126,7275,female,1982,30s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,4,,04-03-20,08-03-20,,,released
+1000000129,7297,female,1952,60s,Korea,Seoul,Dongdaemun-gu,,contact with patient,,1000000120,4,,,08-03-20,,,released
+1000000363,9301,female,1987,30s,Korea,Seoul,Geumcheon-gu,,contact with patient,,1000000353,4,,,26-03-20,,,released
+1000000365,9307,female,1962,50s,Korea,Seoul,Guro-gu,,contact with patient,,1000000353,4,,22-03-20,26-03-20,,,released
+1000000472,9800,female,1971,40s,Korea,Seoul,Jung-gu,,contact with patient,,1000000443,4,,,31-03-20,,,isolated
+1700000003,,female,,20s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002,4,40,27-02-20,07-03-20,03-04-20,,released
+1700000004,,female,,50s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002,4,22,22-02-20,08-03-20,25-03-20,,released
+1700000005,,female,,40s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002,4,3,01-03-20,08-03-20,28-03-20,,released
+1700000006,,female,,40s,Korea,Sejong,Sejong,,gym facility in Sejong,,1700000002,4,2,22-02-20,07-04-20,,,isolated
+2000000108,5362,female,2007,10s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000104,4,,,04-03-20,,,isolated
+2000000109,5493,female,2012,0s,Korea,Gyeonggi-do,Hwaseong-si,,contact with patient,,2000000104,4,,,04-03-20,,,isolated
+2000000412,9360,female,1981,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000297,4,,,26-03-20,,,isolated
+2000000433,9470,female,1975,40s,Korea,Gyeonggi-do,Seongnam-si,,contact with patient,,2000000297,4,,,27-03-20,,,isolated
+2000000461,9617,female,1981,40s,Korea,Gyeonggi-do,Suwon-si,,contact with patient,,2000000297,4,1,,29-03-20,,,isolated
+2000000413,9463,female,1993,20s,Korea,Gyeonggi-do,Ansan-si,,contact with patient,,2000000387,4,,,26-03-20,,,isolated
+4100000071,,female,1986,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000022,4,3,25-02-20,01-03-20,24-03-20,,released
+4100000076,,female,1987,30s,Korea,Chungcheongnam-do,Cheonan-si,,contact with patient,,4100000022,4,4,23-02-20,01-03-20,11-03-20,,released
+4100000130,,female,1957,60s,Korea,Chungcheongnam-do,Buyeo-gun,,contact with patient,,4100000122,4,5,26-03-20,31-03-20,,,isolated
+6100000037,,female,1967,50s,Korea,Gyeongsangnam-do,Changwon-si,,contact with patient,,6100000005,4,,,26-02-20,14-03-20,,released
+6100000044,,female,1976,40s,Korea,Gyeongsangnam-do,Changwon-si,,contact with patient,,6100000005,4,,,27-02-20,16-03-20,,released
+6100000078,,female,1975,40s,Korea,Gyeongsangnam-do,Changwon-si,,contact with patient,,6100000005,4,,05-03-20,05-03-20,02-04-20,,released

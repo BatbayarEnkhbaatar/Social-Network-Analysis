@@ -1,0 +1,7 @@
+The purpose of the break out session is that I try to run your program on my computer.
+    For this, I need from you a set of instructions written down in a document (and perhaps a zip file with your code and data) and send to me before the class starts on Thursday. The easier it is to understand the instructions of running your code, the faster the breakout sessions will be.
+
+3 Files to run
+The first script draws the graph of the entire network where vertices are the patients and edges are infection relationship.
+The secod script draws the graph of the most infectious patients and clusters of the network where vertices are the patients and edges are infection relationship.
+The third script calculate centrality measures of the network
